@@ -18,28 +18,28 @@ Email：wuhaozhong0325@outlook.com
 
 ### 例题（0/20）
 
-| Status | Date |               Problem               |
-| :----: | :--: | :---------------------------------: |
-|        |      | 【POJ 1995】Raising Modulo Numbers  |
-|        |      |   【POJ 2288】Islands and Bridges   |
-|        |      | 【POJ 1958】Strange Towers of Hanoi |
-|        |      |        【BZOJ 1218】激光炸弹        |
-|        |      | 【Usaco Jan07】Tallest Cow 最高的牛 |
-|        |      |         【POJ 1845】Sumdiv          |
-|        |      |     【POJ 3889】Fractal Streets     |
-|        |      |     【POJ 2018】Best Cow Fences     |
-|        |      |         Innovative Business         |
-|        |      |      【Codeforces 670】Cinema       |
-|        |      |              货仓选址               |
-|        |      |         【BZOJ 3032】七夕祭         |
-|        |      |     【POJ 3784】Running Median      |
-|        |      |     【POJ 2299】Ultra-QuickSort     |
-|        |      |             奇数码问题              |
-|        |      |    【hihoCoder 1384】Genius ACM     |
-|        |      |   【POJ 3190】Stall Reservations    |
-|        |      |   【POJ 1328】Radar Installation    |
-|        |      |        【NOIP 2012】国王游戏        |
-|        |      |      【POJ 2054】Color a Tree       |
+|  Status  |    Date    |               Problem               |
+| :------: | :--------: | :---------------------------------: |
+| Accepted | 2018-02-11 | 【POJ 1995】Raising Modulo Numbers  |
+|          |            |   【POJ 2288】Islands and Bridges   |
+|          |            | 【POJ 1958】Strange Towers of Hanoi |
+|          |            |        【BZOJ 1218】激光炸弹        |
+|          |            | 【Usaco Jan07】Tallest Cow 最高的牛 |
+|          |            |         【POJ 1845】Sumdiv          |
+|          |            |     【POJ 3889】Fractal Streets     |
+|          |            |     【POJ 2018】Best Cow Fences     |
+|          |            |         Innovative Business         |
+|          |            |      【Codeforces 670】Cinema       |
+|          |            |              货仓选址               |
+|          |            |         【BZOJ 3032】七夕祭         |
+|          |            |     【POJ 3784】Running Median      |
+|          |            |     【POJ 2299】Ultra-QuickSort     |
+|          |            |             奇数码问题              |
+|          |            |    【hihoCoder 1384】Genius ACM     |
+|          |            |   【POJ 3190】Stall Reservations    |
+|          |            |   【POJ 1328】Radar Installation    |
+|          |            |        【NOIP 2012】国王游戏        |
+|          |            |      【POJ 2054】Color a Tree       |
 
 ### 习题（0/11）
 
