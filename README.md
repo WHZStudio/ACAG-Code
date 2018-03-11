@@ -20,7 +20,7 @@ Email：wuhaozhong0325@outlook.com
 
 |  Status  |    Date    |               Problem               |
 | :------: | :--------: | :---------------------------------: |
-| Accepted | 2018-02-11 | 【POJ 1995】Raising Modulo Numbers  |
+| Accepted | 2018.02.11 | 【POJ 1995】Raising Modulo Numbers  |
 |          |            |   【POJ 2288】Islands and Bridges   |
 |          |            | 【POJ 1958】Strange Towers of Hanoi |
 |          |            |        【BZOJ 1218】激光炸弹        |
@@ -194,23 +194,23 @@ Email：wuhaozhong0325@outlook.com
 
 ### 例题（0/15）
 
-| Status | Date |                  Problem                   |
-| :----: | :--: | :----------------------------------------: |
-|        |      |         【BZOJ 4195】程序自动分析          |
-|        |      |          【NOI 2002】银河英雄传说          |
-|        |      |          【POJ 1733】Parity game           |
-|        |      |             【NOI 2001】食物链             |
-|        |      |           【Tyvj 1432】楼兰图腾            |
-|        |      | 【POJ 3468】A Simple Problem with Integers |
-|        |      |         【USACO Open03】Lost Cows          |
-|        |      |    Can you answer on these queries III     |
-|        |      |            【POJ 1151】Atlantis            |
-|        |      |      【POJ 2482】Stars in Your Window      |
-|        |      |             【Violet 6】蒲公英             |
-|        |      |                   磁力块                   |
-|        |      |           【BZOJ 2038】小Z的袜子           |
-|        |      |              【POJ 1741】Tree              |
-|        |      |          【BZOJ 3224】普通平衡树           |
+|  Status  |    Date    |                  Problem                   |
+| :------: | :--------: | :----------------------------------------: |
+| Accepted | 2018.03.11 |         【BZOJ 4195】程序自动分析          |
+| Accepted | 2018.03.11 |          【NOI 2002】银河英雄传说          |
+| Accepted | 2018.03.11 |          【POJ 1733】Parity game           |
+| Accepted | 2018.03.11 |             【NOI 2001】食物链             |
+|          |            |           【Tyvj 1432】楼兰图腾            |
+|          |            | 【POJ 3468】A Simple Problem with Integers |
+|          |            |         【USACO Open03】Lost Cows          |
+|          |            |    Can you answer on these queries III     |
+|          |            |            【POJ 1151】Atlantis            |
+|          |            |      【POJ 2482】Stars in Your Window      |
+|          |            |             【Violet 6】蒲公英             |
+|          |            |                   磁力块                   |
+|          |            |           【BZOJ 2038】小Z的袜子           |
+|          |            |              【POJ 1741】Tree              |
+|          |            |          【BZOJ 3224】普通平衡树           |
 
 ### 习题（0/10）
 
