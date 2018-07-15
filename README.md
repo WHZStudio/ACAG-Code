@@ -10,11 +10,17 @@ QQ：1669135547
 
 Email：wuhaozhong0325@outlook.com
 
-总进度：0/288
+总进度：0/288「未更新」
 
 注：只收录OJ中有的题目。
 
-## 0x00
+> Update 2018-07-15
+>
+> 《算法竞赛进阶指南》第二版已经发售，正好暑假了，以后就会经常更新啦。
+>
+> 先从「0x50 动态规划」开始吧，相应的题解将会撰写在[我的博客](https://whzstudio.coding.me)上，欢迎大家前去交流讨论，一起做题，一起进步！！！
+
+## 0x00「未更新」
 
 ### 例题（0/20）
 
@@ -57,7 +63,7 @@ Email：wuhaozhong0325@outlook.com
 |        |      |            【POJ 1050】To the Max            |
 |        |      |               【HDU 4864】Task               |
 
-## 0x10
+## 0x10「未更新」
 
 ### 例题（0/16）
 
@@ -96,7 +102,7 @@ Email：wuhaozhong0325@outlook.com
 |        |      |            【POJ 1442】Black Box             |
 |        |      |            【BZOJ 2288】生日礼物             |
 
-## 0x20
+## 0x20「未更新」
 
 ### 例题（0/17）
 
@@ -138,7 +144,7 @@ Email：wuhaozhong0325@outlook.com
 |        |      |               Flood-it!               |
 |        |      |         【BZOJ 1085】骑士精神         |
 
-## 0x30
+## 0x30「未更新」
 
 ### 例题（0/23）
 
@@ -190,7 +196,7 @@ Email：wuhaozhong0325@outlook.com
 |        |      |               魔法球                |
 |        |      |     【POJ 1704】Georgia and Bob     |
 
-## 0x40
+## 0x40「未更新」
 
 ### 例题（0/15）
 
@@ -227,84 +233,89 @@ Email：wuhaozhong0325@outlook.com
 |        |      | 【BZOJ 1588】营业额统计 |
 |        |      | 【BZOJ 1895】SuperMemo  |
 
-## 0x50
+## 0x50 动态规划「列表已更新」
 
-### 例题（0/37）
+### 例题（0/41）
 
-| Status | Date |                   Problem                    |
-| :----: | :--: | :------------------------------------------: |
-|        |      | 【POJ 2279】Mr. Young's Picture Permutations |
-|        |      |                     LCIS                     |
-|        |      |       【USACO Feb08】Making the Grade        |
-|        |      |                Mobile Service                |
-|        |      |             【NOIP 2008】传纸条              |
-|        |      |             【SGU 167】I-country             |
-|        |      |                   数字组合                   |
-|        |      |             自然数拆分Lunatic版              |
-|        |      |               Jury Compromise                |
-|        |      |              【POJ 1742】Coins               |
-|        |      |             【NOI 1995】石子合并             |
-|        |      |             【IOI 1998】Polygon              |
-|        |      |        【POJ 2795】Exploring Pyramids        |
-|        |      |                没有上司的舞会                |
-|        |      |                     选课                     |
-|        |      |       【POJ 3585】Accumulation Degree        |
-|        |      |            【USACO Jan05】Naptime            |
-|        |      |        【Codeforces 24】Broken Robot         |
-|        |      |              Mondriaan's Dream               |
-|        |      |             【NOI 2001】炮兵阵地             |
-|        |      |            【NOIP 2012】开车旅行             |
-|        |      |    【LeetCode 466】Count The Repetitions     |
-|        |      |        【USACO Dec05】Cleaning Shifts        |
-|        |      |       【HDU 5542】The Battle of Chibi        |
-|        |      |              【POJ 1821】Fence               |
-|        |      |         【POJ 3017】Cut the Sequence         |
-|        |      |            【Tyvj 1098】任务安排             |
-|        |      |         【IOI 2002】Batch Scheduling         |
-|        |      |            【SDOI 2012】任务安排             |
-|        |      |       【Codeforces 311】Cats Transport       |
-|        |      |             【NOI 2009】诗人小G              |
-|        |      |   【Codeforces 313】Gerald and Giant Chess   |
-|        |      |         【POJ 1737】Connected Graph          |
-|        |      |               How many of them               |
-|        |      |        【POJ 1037】A Decorative Fence        |
-|        |      |                    启示录                    |
-|        |      |             【BZOJ 1799】月之谜              |
+| Status | Date |                   Problem                    |           Source            |
+| :----: | :--: | :------------------------------------------: | :-------------------------: |
+|        |      | 【POJ 2279】Mr. Young's Picture Permutations |                             |
+|        |      |               【CH 5101】LCIS                |                             |
+|        |      |         【POJ 3666】Making the Grade         |                             |
+|        |      |          【CH 5102】Mobile Service           |         USACO Feb08         |
+|        |      |              【CH 5103】传纸条               |          NOIP 2008          |
+|        |      |             【CH 5104】I-country             |           SGU 167           |
+|        |      |              【CH 5105】Cookies              |                             |
+|        |      |             【CH 5201】数字组合              |                             |
+|        |      |        【CH 5202】自然数拆分Lunatic版        |                             |
+|        |      |         【POJ 1015】Jury Compromise          |                             |
+|        |      |              【POJ 1742】Coins               |                             |
+|        |      |             【CH 5301】石子合并              |          NOI 1995           |
+|        |      |             【POJ 1179】Polygon              |          IOI 1998           |
+|        |      |              【CH 5302】金字塔               | POJ 2795 Exploring Pyramids |
+|        |      |          【CH 5401】没有上司的舞会           |                             |
+|        |      |               【CH 5402】选课                |                             |
+|        |      |       【POJ 3585】Accumulation Degree        |                             |
+|        |      |             【POJ 2228】Naptime              |         USACO Jan05         |
+|        |      |             【CH 5501】环路运输              |                             |
+|        |      |        【Codeforces 24D】Broken Robot        |                             |
+|        |      |        【POJ 2411】Mondriaan's Dream         |                             |
+|        |      |             【POJ 1185】炮兵阵地             |          NOI 2001           |
+|        |      |             【CH 5701】开车旅行              |          NOIP 2012          |
+|        |      |       【CH 5702】Count The Repetitions       |        LeetCode 466         |
+|        |      |       【POJ 2376/3171】Cleaning Shifts       |         USACO Dec05         |
+|        |      |       【HDU 5542】The Battle of Chibi        |                             |
+|        |      |              【POJ 1821】Fence               |                             |
+|        |      |         【POJ 3017】Cut the Sequence         |                             |
+|        |      |             【CH 5A01】任务安排              |          Tyvj 1098          |
+|        |      |            【POJ 1180】任务安排2             |  IOI 2002 Batch Scheduling  |
+|        |      |            【BZOJ 2726】任务安排3            |     SDOI 2012 任务安排      |
+|        |      |             【思考题】任务安排4              |                             |
+|        |      |      【Codeforces 311B】Cats Transport       |                             |
+|        |      |             【BZOJ 1563】诗人小G             |          NOI 2009           |
+|        |      |           【POJ 1738】再探石子归并           |                             |
+|        |      |  【Codeforces 559C】Gerald and Giant Chess   |                             |
+|        |      |         【POJ 1737】Connected Graph          |                             |
+|        |      |              How many of them?               |                             |
+|        |      |        【POJ 1037】A Decorative Fence        |                             |
+|        |      |              【POJ 3208】启示录              |                             |
+|        |      |             【BZOJ 1799】月之谜              |                             |
 
 ### 习题（0/28）
 
-| Status | Date |               Problem                |
-| :----: | :--: | :----------------------------------: |
-|        |      |         【NOIP 2010】乌龟棋          |
-|        |      |         【IOI 1999】花店橱窗         |
-|        |      |   【USACO Feb02】Buy Low Buy Lower   |
-|        |      |     【POJ 1734】Sightseeing trip     |
-|        |      |        【CEOI 1998】Substract        |
-|        |      |        【NOI 2001】陨石的秘密        |
-|        |      |              划分大理石              |
-|        |      |         【POJ 2176】Folding          |
-|        |      |         【NOI 2006】能量项链         |
-|        |      |         【NOI 1999】棋盘分割         |
-|        |      |          【POJ 1390】Blocks          |
-|        |      |      【POJ 1463】Strategic game      |
-|        |      |       【POJ 3345】Bribing FIPA       |
-|        |      |         【HDU 2196】Computer         |
-|        |      |        【BZOJ 2337】XOR和路径        |
-|        |      |      【USACO Nov06】Corn Fields      |
-|        |      |   【CEOI 2002】Bugs Integrated Inc   |
-|        |      | 【USACO Dec04】Fence Obstacle Course |
-|        |      |        【HDU 4261】Estimation        |
-|        |      |        【USACO Open09】干草堆        |
-|        |      |        【BZOJ 1855】股票交易         |
-|        |      |    【HDU 2870】Largest Submatrix     |
-|        |      |   【POJ 3709】K-Anonymous Sequence   |
-|        |      |       【BZOJ 1911】特别行动队        |
-|        |      |       【IOI 2000】Post Office        |
-|        |      |      【hihoCoder 1159】 扑克牌       |
-|        |      |         The Counting Problem         |
-|        |      |     【USACO Nov06】Round Numbers     |
+| Status | Date |                Problem                 |     Source     |
+| :----: | :--: | :------------------------------------: | :------------: |
+|        |      |           【CH 5E01】乌龟棋            |   NOIP 2010    |
+|        |      |          【CH 5E02】花店橱窗           |    IOI 1999    |
+|        |      |    【POJ 1952】 BUY LOW, BUY LOWER     |  USACO Feb02   |
+|        |      | 【POJ 1734】Sightseeing trip（第一版） |                |
+|        |      |       【POJ 1934】Trip（第二版）       |                |
+|        |      |          【POJ 1722】SUBTRACT          |   CEOI 1998    |
+|        |      |         【POJ 1187】陨石的秘密         |    NOI 2001    |
+|        |      |         【CH 5E07】划分大理石          |                |
+|        |      |          【POJ 2176】Folding           |                |
+|        |      |          【CH 5E09】能量项链           |    NOI 2006    |
+|        |      |          【POJ 1191】棋盘分割          |    NOI 1999    |
+|        |      |           【POJ 1390】Blocks           |                |
+|        |      |       【POJ 1463】Strategic game       |                |
+|        |      |        【POJ 3345】Bribing FIPA        |                |
+|        |      |          【HDU 2196】Computer          |                |
+|        |      |         【BZOJ 2337】XOR和路径         |                |
+|        |      |        【POJ 3254】Corn Fields         |  USACO Nov06   |
+|        |      |    【POJ 1038】Bugs Integrated Inc     |   CEOI 2002    |
+|        |      |   【POJ 2374】Fence Obstacle Course    |  USACO Dec04   |
+|        |      |         【HDU 4261】Estimation         |                |
+|        |      |          【BZOJ 1233】干草堆           |  USACO Open09  |
+|        |      |         【BZOJ 1855】股票交易          |                |
+|        |      |     【HDU 2870】Largest Submatrix      |                |
+|        |      |    【POJ 3709】K-Anonymous Sequence    |                |
+|        |      |        【BZOJ 1911】特别行动队         |   APIO 2010    |
+|        |      |        【POJ 1160】Post Office         |    IOI 2000    |
+|        |      |           【CH 5E26】 扑克牌           | hihoCoder 1159 |
+|        |      |    【POJ 2282】The Counting Problem    |                |
+|        |      |       【POJ 3252】Round Numbers        |  USACO Nov06   |
 
-## 0x60
+## 0x60「未更新」
 
 ### 例题（0/39）
 
